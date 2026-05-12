@@ -8,7 +8,7 @@ _Source: server.js_
 
 ## Prerequisites
 
-- `Node.js >= 18` (required by Express 5.x)
+- `Node.js >= 18` (required by Express.js 5.x)
 - `npm >= 9` (bundled with Node.js 18+)
 
 The version requirement is enforced declaratively by the `engines.node` field of `package.json`, so the package manager will warn you when the installed runtime is too old.
